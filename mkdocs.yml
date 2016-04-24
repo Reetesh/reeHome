@@ -1,1 +1,19 @@
-site_name: My Docs
+site_name: Buying a Home in U.S.
+site_url: http://reetesh.v3r.us/reehome
+site_description: The Alien's Guide To Buying A Home In U.S.
+site_author: Reetesh Yelamanchili
+
+theme: cinder 
+pages:
+- Home: index.md
+- Finding Your Home: the-search.md
+- The Finances: finances.md
+- Closing the Sale: closing.md
+- About: index.md
+
+markdown_extensions:
+    - admonition
+
+     # TODO add copyright and google analytics
+# copyright: Copyright &copy; 2016 <a href="https://twitter.com/reetesh"> Y.V.Reetesh?</a>
+# google_analytics: []
