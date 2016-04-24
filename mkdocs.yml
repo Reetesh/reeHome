@@ -2,6 +2,7 @@ site_name: Buying a Home in U.S.
 site_url: http://reetesh.v3r.us/reehome
 site_description: The Alien's Guide To Buying A Home In U.S.
 site_author: Reetesh Yelamanchili
+repo_url: https://github.com/Reetesh/reeHome
 
 theme: cinder 
 pages:
